@@ -1,4 +1,4 @@
-# Stroke_Data_Science_Project
+# Stroke Data Science Project
 
 Este es el repositorio donde estaré subiendo mi proyecto final para el curso de Data Science que estoy llevando a cabo en CoderHouse, el mismo conlleva varias partes y actualmente es la segunda entrega, la próxima es la entrega final con la depuración del modelo de machine learning que vaya a quedar definitivo.
 
